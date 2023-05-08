@@ -3,5 +3,8 @@ header {
     color: white
 }
 .goku{
-    width
+    width: 1000px;
+    position: relative;
+    top: 0px;
+    left: 100px;
 }
