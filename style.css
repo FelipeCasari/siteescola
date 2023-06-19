@@ -19,4 +19,6 @@
 .namekusei-imagem{
     width: 50%;
     background-image: linear-gradient(#689101, #CD4FFF);
+    color: white;
+    display: flex;
 }
