@@ -1,14 +1,20 @@
-.cabecalho {
+body{
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.cabecalho{
     background-color: #383D58;
-    color: white;
+    color:white;
     display: flex;
     justify-content: space-around;
 }
-.goku{
+.ssj3{
     width: 1000px;
     position: relative;
-    top: 0px;
-    left: 0px;
+    top: 50px;
+    left: 150px;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -17,8 +23,17 @@
     font-size: 24px;
 }
 .namekusei-imagem{
-    width: 50%;
-    background-image: linear-gradient(#689101, #CD4FFF);
-    color: white;
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#383D58,#239fa1);
+    color:white;
+    display:flex;
+}
+.escola-conteudo{
+    width: 35%;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
